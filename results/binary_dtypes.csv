@@ -1,0 +1,13 @@
+Feature,Data_Type
+GERP++RS,int64
+polyphen2_HVAR_score,int64
+polyphen2_HDIV_score,int64
+sift_score,int64
+metaSVM_score,int64
+alphamissense_pred,float64
+alphamissense_score,int64
+metaRNN_score,int64
+metaLR_score,int64
+CADD_phred,int64
+varity_r_score,int64
+AF_avg,int64

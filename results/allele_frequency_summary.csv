@@ -1,0 +1,5 @@
+Feature,Count,Minimum,Mean,Median,Maximum,Zero_Count,Zero_Percent,Below_1e-5,Below_1e-5_Percent
+gnomad_ex_AF,17929,0.0,0.0,0.0,0.0,17929,100.0,17929,100.0
+gnomad_ge_AF,155843,0.0,0.0,0.0,0.0,155843,100.0,155843,100.0
+ExAC_AF,183126,0.0,0.0,0.0,0.0,183126,100.0,183126,100.0
+allele_AF,0,,,,,0,0.0,0,0.0

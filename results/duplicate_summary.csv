@@ -1,0 +1,3 @@
+Dataset,Total_Rows,Duplicate_Rows,Duplicate_Percent
+binary_df.csv,368851,367512,99.63698078627955
+vus_only_variants.csv,369993,107880,29.15730838150992

@@ -1,0 +1,15 @@
+Feature,Data_Type
+GERP++RS,str
+polyphen2_HVAR_score,str
+polyphen2_HDIV_score,str
+sift_score,str
+metaSVM_score,str
+alphamissense_score,str
+metaRNN_score,str
+metaLR_score,str
+CADD_phred,str
+varity_r_score,str
+gnomad_ex_AF,str
+gnomad_ge_AF,str
+ExAC_AF,str
+allele_AF,str
